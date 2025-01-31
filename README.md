@@ -1,4 +1,4 @@
-# SOC-Incident-Response-Analysis-And-Investigation-Process
+# SOC Incident Investigation Report (SIIR) 
 
 # Objective:
 I have structured a security incident response framework within a SOC environment using the LetsDefend platform. I analyzed security alerts, investigated potential threats, documented findings, and implemented an effective incident response process to minimize risk and enhance security posture. This project strengthened my expertise in security event analysis, log correlation, threat detection, and incident documentation.
